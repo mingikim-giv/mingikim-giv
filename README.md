@@ -6,12 +6,12 @@
 ## 교육 과정 수료 📖
 * 의료영상 AI API연동 프로젝트 기반 자바(java)풀스택 개발자 과정 수료 (2023.12.27 ~ 2024.07.15)  ~ing
 
-## 🔥 참여 프로젝트 🔥
+## 참여 프로젝트 🔥
 * JSP 게시판 만들기 (2022.09. ~ 2022.11.)
 * ICES HOME-PAGE 제작 (2022.05.23 ~ 2022.05.29)
 * Seoul CCTV and Crime 데이터 분석 (2022.03. ~ 2022.06)
 
-## 🛠 Skill 🛠
+## Skill 🛠
 <div align = "center">
 <h3 align = "center"> Language </h3>
 
