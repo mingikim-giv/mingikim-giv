@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi mingikim-giv 👋
 
 <!--
 **mingikim-giv/mingikim-giv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
