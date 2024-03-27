@@ -9,6 +9,7 @@
 ## 참여 프로젝트
 * JSP 게시판 만들기 (2022.09. ~ 2022.11.)
 * ICES HOME-PAGE 제작 (2022.05.23 ~ 2022.05.29)
+* Seoul CCTV and Crime 데이터 분석 (2022.03. ~ 2022.06)
 
 ## 보유 기술
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
