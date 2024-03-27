@@ -19,4 +19,4 @@
 
 ## others
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingikim-giv&show_icons=true&theme=neon)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingikim_giv)](https://solved.ac/mingikim_giv)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mignikim_giv)](https://solved.ac/mignikim_giv)
