@@ -12,7 +12,7 @@
 * Seoul CCTV and Crime 데이터 분석 (2022.03. ~ 2022.06)
 
 ## 🛠 Skill 🛠
-<div align="center">
+<div align = "center">
   
 Language
 
