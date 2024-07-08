@@ -9,6 +9,7 @@
 ## 참여 프로젝트 🔥
 * JSP 게시판 만들기 (2022.09. ~ 2022.11.)
 * Seoul CCTV and Crime 데이터 분석 (2022.03. ~ 2022.06)
+* Day Music(음악 SNS) 웹 페이지 개발 (2024.05.16 ~ 2024.06.06)
 
 ## Skill 🛠
 <div align = "center">
